@@ -15,8 +15,7 @@ const ServicesPage = () => {
 
                     <h1 className="text-2xl leading-tight text-center md:text-left md:text-4xl md:mb-5">My <span className="font-bold text-secondary"> Services.</span></h1>
                     <p className="mb-3 text-xl text-gray-300">
-                    Full Stack Developer with over 8 years of experience.
-                    My services is the development, implementation and integration of web applications or services as well as the support required to
+                    Development, implementation and integration of web applications or services as well as the support required to
                     different projects.
                     </p>
                     <button className="px-3 py-2 rounded-lg bg-secondary hover:bg-secondary/65">Contact me</button>
